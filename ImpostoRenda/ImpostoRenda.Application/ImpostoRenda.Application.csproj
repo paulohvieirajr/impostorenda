@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ImpostoRenda.Application.Dto\ImpostoRenda.Application.Dto.csproj" />
+    <ProjectReference Include="..\ImpostoRenda.Domain\ImpostoRenda.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>
